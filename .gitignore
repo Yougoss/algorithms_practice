@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# IOS
+.idea/
+.DS_Store
+workspace.xml
